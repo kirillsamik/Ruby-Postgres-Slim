@@ -72,3 +72,9 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "devise", "~> 4.9"
+
+gem "demo_notifer", path: "/home/kirillsam/Документы/Ruby-Postgres-Slim-main/demo_notifer"
+
+gem 'blorgh', path: 'blorgh'
